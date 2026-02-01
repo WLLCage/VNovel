@@ -1,0 +1,102 @@
+type,id,filename,count,notes
+BG,bg_bedroom_morning,images/bg/bg_bedroom_morning_01.jpg,1,Комната Янаса утром
+BG,bg_bathroom,images/bg/bg_bathroom_01.jpg,1,Ванная/зеркало
+BG,bg_kitchen_breakfast,images/bg/bg_kitchen_breakfast_01.jpg,1,"Кухня, завтрак"
+BG,bg_street_to_school,images/bg/bg_street_to_school_01.jpg,1,Улица/двор по пути в школу
+BG,bg_school_hall,images/bg/bg_school_hall_01.jpg,1,Школьный коридор
+BG,bg_classroom,images/bg/bg_classroom_01.jpg,1,Класс
+BG,bg_egor_house_yard,images/bg/bg_egor_house_yard_01.jpg,1,Двор/крыльцо частного дома Егора (подъезд к пьянке)
+BG,bg_egor_house_livingroom,images/bg/bg_egor_house_livingroom_01.jpg,1,Частный дом Егора: гостиная
+BG,bg_egor_house_kitchen,images/bg/bg_egor_house_kitchen_01.jpg,1,Частный дом Егора: кухня/плита
+CG,cg_stove_gas,images/cg/cg_stove_gas_01.jpg,1,Плита/газ (крупный план)
+UI,ui_phone_overlay,gui/phone_overlay.png,1,Оверлей телефона (рамка)
+CHAR,ch_yanas_neutral,images/char/ch_yanas_neutral.png,1,"Янас, neutral"
+CHAR,ch_yanas_smile,images/char/ch_yanas_smile.png,1,"Янас, smile"
+CHAR,ch_yanas_annoyed,images/char/ch_yanas_annoyed.png,1,"Янас, annoyed"
+CHAR,ch_yanas_surprised,images/char/ch_yanas_surprised.png,1,"Янас, surprised"
+CHAR,ch_yanas_serious,images/char/ch_yanas_serious.png,1,"Янас, serious"
+CHAR,ch_egor_neutral,images/char/ch_egor_neutral.png,1,"Егор, neutral"
+CHAR,ch_egor_smile,images/char/ch_egor_smile.png,1,"Егор, smile"
+CHAR,ch_egor_annoyed,images/char/ch_egor_annoyed.png,1,"Егор, annoyed"
+CHAR,ch_egor_surprised,images/char/ch_egor_surprised.png,1,"Егор, surprised"
+CHAR,ch_egor_serious,images/char/ch_egor_serious.png,1,"Егор, serious"
+CHAR,ch_zheka_neutral,images/char/ch_zheka_neutral.png,1,"Жека, neutral"
+CHAR,ch_zheka_smile,images/char/ch_zheka_smile.png,1,"Жека, smile"
+CHAR,ch_zheka_annoyed,images/char/ch_zheka_annoyed.png,1,"Жека, annoyed"
+CHAR,ch_zheka_surprised,images/char/ch_zheka_surprised.png,1,"Жека, surprised"
+CHAR,ch_zheka_serious,images/char/ch_zheka_serious.png,1,"Жека, serious"
+CHAR,ch_rufa_neutral,images/char/ch_rufa_neutral.png,1,"Руфа, neutral"
+CHAR,ch_rufa_smile,images/char/ch_rufa_smile.png,1,"Руфа, smile"
+CHAR,ch_rufa_annoyed,images/char/ch_rufa_annoyed.png,1,"Руфа, annoyed"
+CHAR,ch_rufa_surprised,images/char/ch_rufa_surprised.png,1,"Руфа, surprised"
+CHAR,ch_rufa_serious,images/char/ch_rufa_serious.png,1,"Руфа, serious"
+CHAR,ch_danya_neutral,images/char/ch_danya_neutral.png,1,"Даня Кумыс, neutral"
+CHAR,ch_danya_smile,images/char/ch_danya_smile.png,1,"Даня Кумыс, smile"
+CHAR,ch_danya_annoyed,images/char/ch_danya_annoyed.png,1,"Даня Кумыс, annoyed"
+CHAR,ch_danya_surprised,images/char/ch_danya_surprised.png,1,"Даня Кумыс, surprised"
+CHAR,ch_danya_serious,images/char/ch_danya_serious.png,1,"Даня Кумыс, serious"
+CHAR,ch_sava_neutral,images/char/ch_sava_neutral.png,1,"Сава, neutral"
+CHAR,ch_sava_smile,images/char/ch_sava_smile.png,1,"Сава, smile"
+CHAR,ch_sava_annoyed,images/char/ch_sava_annoyed.png,1,"Сава, annoyed"
+CHAR,ch_sava_surprised,images/char/ch_sava_surprised.png,1,"Сава, surprised"
+CHAR,ch_sava_serious,images/char/ch_sava_serious.png,1,"Сава, serious"
+CHAR,ch_vitalya_neutral,images/char/ch_vitalya_neutral.png,1,"Виталя, neutral"
+CHAR,ch_vitalya_smile,images/char/ch_vitalya_smile.png,1,"Виталя, smile"
+CHAR,ch_vitalya_annoyed,images/char/ch_vitalya_annoyed.png,1,"Виталя, annoyed"
+CHAR,ch_vitalya_surprised,images/char/ch_vitalya_surprised.png,1,"Виталя, surprised"
+CHAR,ch_vitalya_serious,images/char/ch_vitalya_serious.png,1,"Виталя, serious"
+CHAR,ch_toha_neutral,images/char/ch_toha_neutral.png,1,"Тоха, neutral"
+CHAR,ch_toha_smile,images/char/ch_toha_smile.png,1,"Тоха, smile"
+CHAR,ch_toha_annoyed,images/char/ch_toha_annoyed.png,1,"Тоха, annoyed"
+CHAR,ch_toha_surprised,images/char/ch_toha_surprised.png,1,"Тоха, surprised"
+CHAR,ch_toha_serious,images/char/ch_toha_serious.png,1,"Тоха, serious"
+CHAR,ch_tos_neutral,images/char/ch_tos_neutral.png,1,"Тос, neutral"
+CHAR,ch_tos_smile,images/char/ch_tos_smile.png,1,"Тос, smile"
+CHAR,ch_tos_annoyed,images/char/ch_tos_annoyed.png,1,"Тос, annoyed"
+CHAR,ch_tos_surprised,images/char/ch_tos_surprised.png,1,"Тос, surprised"
+CHAR,ch_tos_serious,images/char/ch_tos_serious.png,1,"Тос, serious"
+CHAR,ch_lekha_neutral,images/char/ch_lekha_neutral.png,1,"Лёха, neutral"
+CHAR,ch_lekha_smile,images/char/ch_lekha_smile.png,1,"Лёха, smile"
+CHAR,ch_lekha_annoyed,images/char/ch_lekha_annoyed.png,1,"Лёха, annoyed"
+CHAR,ch_lekha_surprised,images/char/ch_lekha_surprised.png,1,"Лёха, surprised"
+CHAR,ch_lekha_serious,images/char/ch_lekha_serious.png,1,"Лёха, serious"
+CHAR,ch_buga_neutral,images/char/ch_buga_neutral.png,1,"Буга, neutral"
+CHAR,ch_buga_smile,images/char/ch_buga_smile.png,1,"Буга, smile"
+CHAR,ch_buga_annoyed,images/char/ch_buga_annoyed.png,1,"Буга, annoyed"
+CHAR,ch_buga_surprised,images/char/ch_buga_surprised.png,1,"Буга, surprised"
+CHAR,ch_buga_serious,images/char/ch_buga_serious.png,1,"Буга, serious"
+CHAR,ch_shkarik_neutral,images/char/ch_shkarik_neutral.png,1,"Шкарик, neutral"
+CHAR,ch_shkarik_smile,images/char/ch_shkarik_smile.png,1,"Шкарик, smile"
+CHAR,ch_shkarik_annoyed,images/char/ch_shkarik_annoyed.png,1,"Шкарик, annoyed"
+CHAR,ch_shkarik_surprised,images/char/ch_shkarik_surprised.png,1,"Шкарик, surprised"
+CHAR,ch_shkarik_serious,images/char/ch_shkarik_serious.png,1,"Шкарик, serious"
+CHAR,ch_vova_neutral,images/char/ch_vova_neutral.png,1,"Вова, neutral"
+CHAR,ch_vova_smile,images/char/ch_vova_smile.png,1,"Вова, smile"
+CHAR,ch_vova_annoyed,images/char/ch_vova_annoyed.png,1,"Вова, annoyed"
+CHAR,ch_vova_surprised,images/char/ch_vova_surprised.png,1,"Вова, surprised"
+CHAR,ch_vova_serious,images/char/ch_vova_serious.png,1,"Вова, serious"
+CHAR,ch_sanya_neutral,images/char/ch_sanya_neutral.png,1,"Саня, neutral"
+CHAR,ch_sanya_smile,images/char/ch_sanya_smile.png,1,"Саня, smile"
+CHAR,ch_sanya_annoyed,images/char/ch_sanya_annoyed.png,1,"Саня, annoyed"
+CHAR,ch_sanya_surprised,images/char/ch_sanya_surprised.png,1,"Саня, surprised"
+CHAR,ch_sanya_serious,images/char/ch_sanya_serious.png,1,"Саня, serious"
+CHAR,ch_namzhil_neutral,images/char/ch_namzhil_neutral.png,1,"Намжил, neutral"
+CHAR,ch_namzhil_smile,images/char/ch_namzhil_smile.png,1,"Намжил, smile"
+CHAR,ch_namzhil_annoyed,images/char/ch_namzhil_annoyed.png,1,"Намжил, annoyed"
+CHAR,ch_namzhil_surprised,images/char/ch_namzhil_surprised.png,1,"Намжил, surprised"
+CHAR,ch_namzhil_serious,images/char/ch_namzhil_serious.png,1,"Намжил, serious"
+BGM,bgm_morning,audio/bgm/bgm_morning_01.ogg,1,Спокойное утро
+BGM,bgm_school,audio/bgm/bgm_school_01.ogg,1,Школа/день
+BGM,bgm_party,audio/bgm/bgm_party_01.ogg,1,Пьянка/тусыч
+BGM,bgm_ominous,audio/bgm/bgm_ominous_01.ogg,1,Нарастание тревоги перед газом
+SFX,sfx_alarm,audio/sfx/sfx_alarm_01.ogg,1,Будильник
+SFX,sfx_toothbrush,audio/sfx/sfx_toothbrush_01.ogg,1,Чистка зубов
+SFX,sfx_kettle,audio/sfx/sfx_kettle_01.ogg,1,Чайник/завтрак
+SFX,sfx_school_bell,audio/sfx/sfx_school_bell_01.ogg,1,Звонок
+SFX,sfx_vk_ping,audio/sfx/sfx_vk_ping_01.ogg,1,Уведомление чата
+SFX,sfx_gate,audio/sfx/sfx_gate_01.ogg,1,Калитка/двор (приход к Егору)
+SFX,sfx_pour,audio/sfx/sfx_pour_01.ogg,1,Налив алкоголя
+SFX,sfx_laughter,audio/sfx/sfx_laughter_01.ogg,1,Смех толпы (тихо)
+SFX,sfx_stove_click,audio/sfx/sfx_stove_click_01.ogg,1,Плита: щелчок
+SFX,sfx_gas_hiss,audio/sfx/sfx_gas_hiss_01.ogg,1,Шипение газа
+SFX,sfx_fall,audio/sfx/sfx_fall_01.ogg,1,Падение/глухой звук
